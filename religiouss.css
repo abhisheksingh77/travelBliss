@@ -1,0 +1,50 @@
+#religious{  width:;
+             height:90vh;
+             }
+
+
+.rel{width:;
+        height:85vh;
+          margin-top:20px;
+            }
+
+
+.rel h2{font-size:30px;
+         font-family:sans-serif;
+         color:black;
+           background-color:gray;
+           border:1px solid red;
+           padding-left:550px;
+            padding-top:10px;
+              margin-top:20px; }
+
+.tive {font-size:40px;
+         font-family:sans-serif;
+         color:white;
+           background-color:black;
+           border:1px solid red;
+           padding-left:550px;
+            padding-top:10px;
+             margin-top:40px;  }
+
+.rel p{font-size:20px;
+          word-spacing:4px;
+            letter-spacing:4px;
+           color:gray;
+          
+            width:60%;
+               height:52%;
+               margin-left:20%;
+                   margin-top:30px;}
+
+
+
+
+.rel img{width:800px;
+            padding-left:260px;
+             height:450px;
+              padding-top:40px;}
+
+
+
+.me{margin-left:600px;}

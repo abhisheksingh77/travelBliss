@@ -1,0 +1,107 @@
+#Histori{width:;
+             height:80vh;
+              }
+
+
+
+.hist{width:;
+       height:80vh;
+       margin-top:35px;
+         }
+
+
+.hist h2{font-size:30px;
+         font-family:sans-serif;
+         color:black;
+           background-color:gray;
+           border:1px solid red;
+           padding-left:550px;
+            padding-top:10px;
+            }
+
+.hist p{font-size:20px;
+          word-spacing:4px;
+            letter-spacing:4px;
+           color:gray;
+           
+            width:60%;
+               height:42%;
+               margin-left:20%;
+                   margin-top:30px;}
+
+
+.site{width:;
+       height:75vh;
+       background-image: url("https://wallpapercave.com/wp/wp5907922.jpg");
+       background-size:cover;
+       background-repeat:no-repeat;
+       
+        background-attachment:fixed;
+         padding-top:1.2rem;
+         animation:animate 20s infinite;
+         
+         
+           }
+
+       @keyframes  animate{  
+         25%{background-image: url("https://image.winudf.com/v2/image1/Y29tLmFiYW5kYmx3Lmx3cHRham1haGFsX3NjcmVlbl81XzE1NTQ4MTExODBfMDI1/screen-5.jpg?fakeurl=1&type=.jpg"); left:100%; width:100%;}
+         50%{background-image: url("https://www.akshartours.com/wp-content/uploads/2020/08/Things-to-Do-in-Delhi.jpg"); left:0%;}
+         75%{background-image: url("https://i.ytimg.com/vi/Bm7iQmAgAlw/maxresdefault.jpg");  left:0%;}
+         100%{background-image: url("https://www.hdnicewallpapers.com/Walls/Big/Countries%20and%20City/Amer_Fort_Tourist_Place_in_India_HD_Photo.jpg");  left:-100%; width:100%;}
+
+  }
+
+.site h3{font-size:40px;
+          font-family:monospace;
+          word-spacing:4px;
+           letter-spacing:3px;
+           color:white;
+            padding-left:400px; 
+           padding-top:110px;
+          }
+
+.site p{font-size:28px;
+          font-family:monospace;
+          word-spacing:2px;
+           letter-spacing:2px;
+           color:white;
+            padding-left:200px; 
+           padding-top:40px;
+          }
+
+.place h2{font-size:30px;
+         font-family:sans-serif;
+         color:black;
+           background:;
+           border:;
+           padding-left:560px;
+            margin-top:100px;
+             border:1px solid red;
+              padding-top:10px;
+              background-color:lightgray;}
+
+.place img{width:800px;
+            padding-left:260px;
+             height:450px;
+              padding-top:40px;}
+
+
+
+
+.place p{font-size:20px;
+          word-spacing:4px;
+            letter-spacing:4px;
+           color:gray;
+          
+            width:60%;
+               height:42%;
+               margin-left:20%;
+                   margin-top:30px;}
+
+.place p span{color:blue;
+               margin-bottom:30px;
+                }
+
+
+.mee{margin-left:600px;
+       margin-top:800px;}

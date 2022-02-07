@@ -1,0 +1,129 @@
+#adventure{width:;
+            height:90vh;
+          }
+
+.adven{width:;
+        height:85vh;
+          margin-top:20px;}
+
+
+.adven h2{font-size:30px;
+         font-family:sans-serif;
+         color:black;
+           background-color:gray;
+           border:1px solid red;
+           padding-left:550px;
+            padding-top:10px;
+              margin-top:20px;}
+
+
+.adven img{width:800px;
+            padding-left:260px;
+             height:450px;
+              padding-top:40px;}
+
+.adven p{font-size:20px;
+          word-spacing:4px;
+            letter-spacing:4px;
+           color:gray;
+           
+            width:60%;
+               height:79%;
+               margin-left:20%;
+                   margin-top:30px;}
+
+.ture{margin-top:150px;
+       }
+
+.hit h2{font-size:30px;
+         font-family:sans-serif;
+         color:black;
+           background-color:gray;
+           border:1px solid red;
+           padding-left:500px;
+            padding-top:10px;
+              margin-top:600px;}
+
+
+.ture{width:;
+       height:85vh;
+       background-image: url("https://quotefancy.com/media/wallpaper/3840x2160/4674316-J-R-R-Tolkien-Quote-The-greatest-adventure-is-what-lies-ahead.jpg");
+       background-size:cover;
+       background-repeat:no-repeat;
+       
+        background-attachment:fixed;
+         padding-top:1.2rem;
+         animation:animate 20s infinite;
+         
+         
+           }
+
+       @keyframes  animate{  
+         25%{background-image: url("https://wallpapercave.com/wp/wp1903457.jpg"); left:100%; width:100%;}
+         50%{background-image: url("https://wallpaperaccess.com/full/428865.jpg"); left:0%;}
+         75%{background-image: url("https://images.wallpapersden.com/image/download/tent-camping-mountains_15223_1920x1080.jpg");  left:0%;}
+         100%{background-image: url("https://images5.alphacoders.com/555/thumb-1920-555700.jpg");  left:-100%; width:100%;}
+
+  }
+
+.ture h2{color:white;
+          font-family:monospace;
+           word-spacing:3px;
+             letter-spacing:4px;
+            padding-top:200px;
+             padding-left:300px;
+             font-size:30px;
+            }
+
+.ture b{color:white;
+          font-family:monospace;
+           word-spacing:3px;
+             letter-spacing:4px;
+            padding-top:400px;
+             padding-left:450px;
+             font-size:30px;}
+
+
+
+.reign{width:;
+         height:75vh;}
+
+.reign h2{color:black;
+          border:1px solid red;
+           padding-top:4px;
+           margin-top:40px;
+           padding-left:590px;
+           background-color:lightgray;}
+
+.reign p{font-size:20px;
+          word-spacing:4px;
+            letter-spacing:4px;
+           color:gray;
+          
+            width:60%;
+               height:54%;
+               margin-left:20%;
+                   margin-top:30px;}
+
+.reign b{font-size:30px;
+         font-family:monospace;
+          color:black;
+          
+           padding-top:40px;
+           
+          
+           padding-left:580px;}
+
+
+.choose li{list-style:none;
+           display:inline;
+           flex-wrap:wrap;}
+
+.choose li a{text-decoration:none;
+              }
+
+.choose li img{width:500px;
+               height:300px;
+               padding-left:100px;}
+
+.choose li img:hover{opacity:.4;}
